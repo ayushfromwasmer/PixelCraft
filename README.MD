@@ -153,6 +153,14 @@ This Web App is a Fully Compatible PWA and is installable.
 
 You can install it either from the Dropdown or using the "Add to Home Screen" Button From Options.  
 
+## Deploy Your Own Copy
+
+PixelCraft is a static web app with no build step, so you can host your own copy on Wasmer Edge.
+
+[![Deploy to Wasmer](https://img.shields.io/badge/Deploy%20to-Wasmer-171717?logo=wasmer&logoColor=white)](https://wasmer.io/apps/create?github=rgab1508%2FPixelCraft)
+
+The button opens Wasmer's import page for this public repository; it does not copy the repository into your GitHub account. To customize your copy (for example the `og:url` and `og:image` links in `index.html`) or to redeploy when you push changes, fork this repository first and import your fork instead.
+
 ## Some Pixel Arts Made with PixelCraft
 
 <img src="https://user-images.githubusercontent.com/17960677/96029683-a14d6380-0e78-11eb-8901-bff832a4cb6e.gif" alt="canvas (1)" width="250" height="250" ><img src="https://user-images.githubusercontent.com/17960677/96029686-a3afbd80-0e78-11eb-8c03-0f407a5110fd.gif" alt="canvas (2)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029693-a4e0ea80-0e78-11eb-9528-1b303a89599e.gif" alt="canvas" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029696-a5798100-0e78-11eb-8653-43ebc672f1d6.gif" alt="canvas (29)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029700-a7434480-0e78-11eb-8505-3b6539bc39d2.gif" alt="canvas (9)" width="250" height="250">
